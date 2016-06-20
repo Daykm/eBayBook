@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">eBayBook</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="list_error">No book listings available</string>
+</resources>

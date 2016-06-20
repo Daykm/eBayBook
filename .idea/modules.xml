@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kodyDayBookApp.iml" filepath="$PROJECT_DIR$/kodyDayBookApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kodydaybookapp/kodydaybookapp.iml" filepath="$PROJECT_DIR$/kodydaybookapp/kodydaybookapp.iml" />
+    </modules>
+  </component>
+</project>
